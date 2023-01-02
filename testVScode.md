@@ -70,7 +70,9 @@ I need to add another paragraph below the second list item.
 ![所logo](LG.jpg "西光所logo")    
 - 开头一个！   
 - 接着一个方括号   
-- 后面一个普通括号，里面是图片本地地址或者网络地址及可选标题   
+- 后面一个普通括号，里面是图片本地地址或者网络地址及可选标题  
+token：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    
+
 ## 七、分割线  
 单独三个***
 ***    
